@@ -1,0 +1,15 @@
+{
+	"sync" : {
+		"github" : {
+			"base_url" : "https://api.github.com",
+			"org" : "REPLACE WITH YOUR ORGANIZATION",
+			"client_id" : "REPLACE WITH YOUR CLIENT ID",
+			"client_secret" : "REPLACE WITH YOUR CLIENT SECRET",
+			"batch_size" : 100
+		},
+		"api" : {
+			"base_url" : "http://localhost",
+			"key" : "REPLACE WITH YOUR API KEY"
+		}
+	}
+}
