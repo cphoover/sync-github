@@ -29,6 +29,7 @@ This application is meant to be scheduled at a reasonable interval in order to k
 ```
 
 ## TODO
+* BUG: either use index aliases so we are populating a fresh index each time... Or keep track of repo ids we are getting each time and delete where not in id stack.
 * handle errors better
 * add exponential backoff in case of github request failures (or api send failures)
 
