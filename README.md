@@ -1,5 +1,6 @@
 #sync-github
 [![Build Status](https://semaphoreci.com/api/v1/cphoover/sync-github/branches/master/badge.svg)](https://semaphoreci.com/cphoover/sync-github)
+
 batch sync process to retrieve github repository information and post to our remote api endpoint.
 
 ## Settings
